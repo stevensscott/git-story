@@ -1,2 +1,3 @@
 This is my story. Hopefull this all sinks in so you I can move to dev. 
 CLI GIT has historically been difficult.
+Here is my new line!
